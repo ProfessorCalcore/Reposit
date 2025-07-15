@@ -1,9 +1,9 @@
 # 🐉PYTHON CALCULATOR🐉
 
-# 🙈🙉 Introduction 🐵🖐
+# Introduction
 Hi this is a basic calculator i made as a beginner software developer. It lets you add, multiple, divide or subtract 2 numbers together.
 
-# 😖 How do i even run the script bro 🤯
+# How do i even run the script bro
 
 Ok first of all. Github does not have a way to run scripts on here. You need to download a python runtime environment. PRE.
 
