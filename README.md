@@ -5,7 +5,7 @@ Hi this is a basic calculator i made as a beginner software developer. It lets y
 
 # How do i even run the script bro
 
-Ok first of all. Github does not have a way to run scripts on here. You need to download a python runtime environment. PRE.
+Ok first of all. Github does not have a way to run scripts (the code) on here. You need to download a python runtime environment. PRE.
 
 A PRE is basically an app that lets you run code using the python syntax language. Step 1 tells you how to download a PRE.
 
