@@ -1,3 +1,6 @@
+# 🐉PYTHON CALCULATOR🐉
+
+# Introduction
 Hi this is a basic calculator i made as a beginner software developer. It lets you add, multiple, divide or subtract 2 numbers together.
 
 # How do i even run the script bro ???
